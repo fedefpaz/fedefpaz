@@ -2,13 +2,13 @@
 
 
 
-```javascript
+```js
 const aboutMe = {
-   code: ["JAVA", "Python", "Javascript", "HTML", "CSS"],
+   code: ["Java", "Python", "JavaScript", "HTML", "CSS"],
    technologies: {
       backEnd: {
          java: ["Spring"],
-         python: ["Pandas"]
+         python: ["Pandas"],
          js: ["Node"],
          misc: ["Bash", "JUnit", "Selenium", "Docker", "Git"]
       },
@@ -18,7 +18,7 @@ const aboutMe = {
       },
       databases: ["MySQL", "MongoDB", "H2"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Certified Tech Developer student, open for job opportunities."],
 };
 ```
 </br></br>

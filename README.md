@@ -1,4 +1,4 @@
-### Hi, I'm Federico Paz! 👋
+### Hi, I'm Federico Paz! 👋🏼
 
 
 
@@ -21,7 +21,6 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
 };
 ```
-
 </br></br>
 <h2>Some stats 💻</h2>
 
@@ -31,7 +30,7 @@ const aboutMe = {
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedefpaz&langs_count=10&theme=tokyonight&layout=compact" alt="fedefpaz :: Top Langs" /></p>
 
-<h2>Connect with Me 🤝</h2>
+<h2>Connect with Me 🤝🏼</h2>
 
 <a href="https://www.linkedin.com/in/federico-paz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@federicopaz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:federicofpaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-federicofpaz@gmail.com-blue?style=flat&logo=gmail"></a>

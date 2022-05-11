@@ -12,7 +12,7 @@ const aboutMe = {
          java: ["Spring"],
          python: ["Pandas"],
          js: ["Node"],
-         misc: ["Bash", "JUnit", "Selenium", "Docker", "Git"]
+         misc: ["Bash", "JUnit", "Postman", "Selenium", "Docker", "Git"]
       },
       frontEnd: {
          js: ["React", "Vainilla JS"],

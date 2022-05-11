@@ -1,6 +1,8 @@
 <h1>Hi, I'm Federico Paz! 👋🏼</h1>
 
+<p>I am a Systems Engineering student at the Universidad Tecnológica Nacional, I am studying Certified Tech Developer created jointly by Mercado Libre, Globant and Digital House. I seek continuous training and find a job that allows me to grow at the same time.</p>
 
+<h2>Knowledge 🕶</h2>
 
 ```js
 const aboutMe = {

@@ -1,4 +1,4 @@
-### Hi, I'm Federico Paz! 👋🏼
+<h1>Hi, I'm Federico Paz! 👋🏼</h1>
 
 
 
@@ -21,7 +21,6 @@ const aboutMe = {
    currentOccupation: ["Certified Tech Developer student, open for job opportunities."],
 };
 ```
-</br></br>
 <h2>Some stats 💻</h2>
 
 ![Fede's github stats](https://github-readme-stats.vercel.app/api?username=fedefpaz&show_icons=true&theme=tokyonight&layout=compact)

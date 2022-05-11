@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi, I'm Federico Paz! 👋
 
-<!--
-**fedefpaz/fedefpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   code: ["JAVA", "Python", "Javascript", "HTML", "CSS"],
+   technologies: {
+      backEnd: {
+         java: ["Spring"],
+         python: ["Pandas"]
+         js: ["Node"],
+         misc: ["Bash", "JUnit", "Selenium", "Docker", "Git"]
+      },
+      frontEnd: {
+         js: ["React", "Vainilla JS"],
+         css: ["Bootstrap", "SASS"]
+      },
+      databases: ["MySQL", "MongoDB", "H2"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+};
+```
+
+</br></br>
+<h2>Some stats 💻</h2>
+
+![Fede's github stats](https://github-readme-stats.vercel.app/api?username=fedefpaz&show_icons=true&theme=tokyonight&layout=compact)
+
+<h2>Top langs :tongue:</h2>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedefpaz&langs_count=10&theme=tokyonight&layout=compact" alt="fedefpaz :: Top Langs" /></p>
+
+<h2>Connect with Me 🤝</h2>
+
+<a href="https://www.linkedin.com/in/federico-paz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@federicopaz-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:federicofpaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-federicofpaz@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>

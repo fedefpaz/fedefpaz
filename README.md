@@ -27,7 +27,7 @@ const aboutMe = {
 
 <h2>Top langs :tongue:</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedefpaz&langs_count=10&theme=tokyonight&layout=compact" alt="fedefpaz :: Top Langs" /></p>
+![Fede's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedefpaz&langs_count=10&theme=tokyonight&layout=compact)
 
 <h2>Connect with Me 🤝🏼</h2>
 

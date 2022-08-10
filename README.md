@@ -32,7 +32,7 @@ const aboutMe = {
 
 ![Fede's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedefpaz&langs_count=10&theme=tokyonight&layout=compact)
 
-<h2>Connect with Me 🤝🏼</h2>
+<h2>Contact me 🤝🏼</h2>
 
 <a href="https://www.linkedin.com/in/federico-paz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@federicopaz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:federicofpaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-federicofpaz@gmail.com-blue?style=flat&logo=gmail"></a>

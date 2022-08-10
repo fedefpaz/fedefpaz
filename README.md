@@ -1,7 +1,7 @@
 <h1>Hi, I'm Federico Paz! 👋🏼</h1>
 
-<p>I'm a System Engineering student at the Universidad Tecnológica Nacional. I've completed the first track of the Certified Tech Developer Course created jointly by Mercado Libre, Globant and Digital House. Now I'm doing the second track, specialized in Back-end. 
-I look forward getting continuous training and finding a job that allows me to grow at the same time.</p>
+<p>I'm a System Engineering student at the Universidad Tecnológica Nacional. I've completed the first track of the Certified Tech Developer Course created jointly by Mercado Libre, Globant and Digital House. Now I'm doing the second track, specialized in Back-end.</p>
+<p>I look forward getting continuous training and finding a job that allows me to grow at the same time.</p>
 
 <h2>Skills 🕶</h2>
 
